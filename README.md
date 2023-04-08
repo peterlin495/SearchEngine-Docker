@@ -11,14 +11,6 @@ Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker 
 It gives you the ability to analyze any data set by using the searching/aggregation capabilities of Elasticsearch and
 the visualization power of Kibana.
 
-![Animated demo](https://user-images.githubusercontent.com/3299086/155972072-0c89d6db-707a-47a1-818b-5f976565f95a.gif)
-
-> **Note**  
-> [Platinum][subscriptions] features are enabled by default for a [trial][license-mngmt] duration of **30 days**. After
-> this evaluation period, you will retain access to all the free features included in the Open Basic license seamlessly,
-> without manual intervention required, and without losing any data. Refer to the [How to disable paid
-> features](#how-to-disable-paid-features) section to opt out of this behaviour.
-
 Based on the official Docker images from Elastic:
 
 * [Elasticsearch](https://github.com/elastic/elasticsearch/tree/main/distribution/docker)
