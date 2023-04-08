@@ -88,7 +88,7 @@ services:
     restart: unless-stopped
   
   neo4j:
-    image: peterlin495/neo4j:5.6.0
+    image: peterlin495/neo4j:5.6.0_v1
     container_name: neo4j
     volumes:
       - ./neo4j_data:/data
