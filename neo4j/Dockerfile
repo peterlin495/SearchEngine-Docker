@@ -1,7 +1,7 @@
 # Neo4j 4.4.0
 #FROM neo4j:latest
-FROM neo4j:5.6.0-community
-
+#FROM neo4j:5.6.0-community
+FROM peterlin495/neo4j:5.6.0
 # 安装 APOC plugins
 RUN mkdir -p /var/lib/neo4j/plugins \
     && cd /var/lib/neo4j/plugins \
