@@ -1,8 +1,10 @@
+# License
+Please note that any modifications made to the code from https://github.com/deviantony/docker-elk, which was originally created by the author, must adhere to the conditions specified in the MIT license under which the code was released. This requires that the original copyright and permission notices be included in any redistribution of the code and that it be distributed without any warranty. It is important to ensure compliance with these terms before using or distributing the modified code.
+
+
 # Elastic stack (ELK) on Docker
 
 [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-8.7.0-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)
-[![Build Status](https://github.com/deviantony/docker-elk/workflows/CI/badge.svg?branch=main)](https://github.com/deviantony/docker-elk/actions?query=workflow%3ACI+branch%3Amain)
-[![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://app.gitter.im/#/room/#deviantony_docker-elk:gitter.im)
 
 Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker Compose.
 
@@ -490,5 +492,3 @@ See the following Wiki pages:
 [ls-docker]: https://www.elastic.co/guide/en/logstash/current/docker-config.html
 
 [upgrade]: https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-upgrade.html
-# SearchEngine-Docker
-# SearchEngine-Docker
